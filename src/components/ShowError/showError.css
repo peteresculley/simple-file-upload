@@ -1,0 +1,9 @@
+.show-error {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 15px;
+  text-align: center;
+  font-size: 2rem;
+  color: #555;
+}

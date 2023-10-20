@@ -1,0 +1,16 @@
+.show-image {
+  display: flex;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.show-image img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: scale-down;
+  cursor: pointer;
+}
+
+.show-image-container {
+  display: flex;
+}
